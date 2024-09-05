@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(215, 215, 212);
+    background-color: white;
 }
 
 div.Mabel h4 {
@@ -50,6 +50,7 @@ ul li a:hover {
     background-color: white;
     padding: 4px;
     color: black;
+    border: 1px solid black;
 }
 
 
