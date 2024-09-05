@@ -11,6 +11,7 @@ div.Mabel h4 {
 }
 blockquote {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
 }
 
 p.Feature {
